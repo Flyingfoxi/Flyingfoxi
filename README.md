@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Flyingfoxi
 - 👀 I’m interested in Python and DnD
-- 🌱 I’m currently learning PyQt6 and PyScript
+- 🌱 I’m currently learning PyQt6 and Django
 - 💞️ I’m looking to collaborate on: Pythonenviroments
 - 📫 How to reach me: DM maybe ?
 - 😄 Pronouns: He
