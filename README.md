@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Flyingfoxi
-- 👀 I’m interested in Python and DnD
+- 👀 I’m interested in Python, DnD and Minecraft Server development
 - 🌱 I’m currently learning PyQt6
 - 💞️ I’m looking to collaborate on: Pythonenviroments
 - 📫 How to reach me: DM me
