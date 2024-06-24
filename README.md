@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Flyingfoxi
-- 👀 I’m interested in Python, DnD and Minecraft Server development
-- 🌱 I’m currently learning PyQt6
-- 💞️ I’m looking to collaborate on: Pythonenviroments
+- 👀 I’m interested in Python, C++, DnD and Minecraft Server development
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on: Pythonprojects
 - 📫 How to reach me: DM me
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: You read that shit :-)
