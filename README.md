@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Flyingfoxi
-- 👀 I’m interested in Python, C++, DnD and Minecraft Server development
-- 🌱 I’m currently learning C++, Java and C#
-- 💞️ I’m looking to collaborate on: Python and AI
+- 👀 I’m interested in Python, C++, Python and Game Development
+- 🌱 I’m currently learning C++ 
+- 💞️ I’m looking to collaborate on: Python or Unity Projects
 - 📫 How to reach me: DM me
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: 1 + 1 = 11
