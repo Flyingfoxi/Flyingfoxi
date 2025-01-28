@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flyingfoxi
 - 👀 I’m interested in Backend development
-- 🌱 I’m currently learning FastAPI and MongoDB
+- 🌱 I’m currently learning SQL Alchemy and Algorithms
 - 📫 How to reach me: DM / Issues on the Projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: It's all just 1's and 0's
