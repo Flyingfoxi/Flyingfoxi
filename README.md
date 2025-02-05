@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flyingfoxi
 - 👀 I’m interested in Backend development
 - 🌱 I’m currently learning SQL Alchemy and Algorithms
-- 📫 How to reach me: [Email](flyingfoxi@proton.me)
+- 📫 How to reach me: [Email](mailto:flyingfoxi@proton.me)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: It's all just 1's and 0's
